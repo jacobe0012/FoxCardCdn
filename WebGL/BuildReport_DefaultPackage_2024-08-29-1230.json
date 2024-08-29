@@ -1,0 +1,2607 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.40f1",
+        "BuildDate": "2024/8/29 20:31:33",
+        "BuildSeconds": 52,
+        "BuildTarget": 20,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-08-29-1230",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 2,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 241,
+        "MainAssetTotalCount": 197,
+        "AllBundleTotalCount": 25,
+        "AllBundleTotalSize": 22397792,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "BGM.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.bank.bytes",
+            "AssetGUID": "2352ef40b9661724a87b35da5312b96d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "BGM.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.strings.bank.bytes",
+            "AssetGUID": "254edd1dfad1b8248937f5b5f4d83142",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "Master.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.bank.bytes",
+            "AssetGUID": "76870723ea1a56648a5941158ca22b7e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "Master.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.strings.bank.bytes",
+            "AssetGUID": "9a3b667e2ce0a75408d9c419005e0fe9",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "SoundEffects.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.bank.bytes",
+            "AssetGUID": "443e2e4a0f05ff043b3ec04159eea804",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "SoundEffects.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.strings.bank.bytes",
+            "AssetGUID": "431ed9d511e2eac498d55d36cb09271e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "MainBundleSize": 7585464,
+            "DependAssets": []
+        },
+        {
+            "Address": "RunTimeBGM",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Bgm/RunTimeBGM.mp3",
+            "AssetGUID": "4368a3892df0d1649837b67ebb6f6df0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_bgm.bundle",
+            "MainBundleSize": 9567321,
+            "DependAssets": []
+        },
+        {
+            "Address": "UIBGM",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Bgm/UIBGM.mp3",
+            "AssetGUID": "dcbc982e1370b604c9d4e36c09e05ba8",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_bgm.bundle",
+            "MainBundleSize": 9567321,
+            "DependAssets": []
+        },
+        {
+            "Address": "Click",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Click.mp3",
+            "AssetGUID": "8da74c95224c4f549961490a8bb9880f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_soundeffects.bundle",
+            "MainBundleSize": 14695,
+            "DependAssets": []
+        },
+        {
+            "Address": "Warning",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Warning.mp3",
+            "AssetGUID": "8e8456113c21cb347871cb0b0a4b2c00",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_audioclips_soundeffects.bundle",
+            "MainBundleSize": 14695,
+            "DependAssets": []
+        },
+        {
+            "Address": "Card",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Card.prefab",
+            "AssetGUID": "44e10eab2c2fcaa40929705d4d95693b",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "MainBundleSize": 111958,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg_fox.png"
+            ]
+        },
+        {
+            "Address": "Loading",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Loading.prefab",
+            "AssetGUID": "2ccce3b6f8206214486b6079522f601f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "MainBundleSize": 111958,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png"
+            ]
+        },
+        {
+            "Address": "LoginPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/LoginPanel.prefab",
+            "AssetGUID": "5a972235c8404274db2cbd4b1ce79894",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "MainBundleSize": 111958,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd"
+            ]
+        },
+        {
+            "Address": "PanelBattleShop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelBattleShop.prefab",
+            "AssetGUID": "5694f7abb7ff4744e8e8511f4d50cb82",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "MainBundleSize": 111958,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "PanelInGame",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelInGame.prefab",
+            "AssetGUID": "644a51629b1f6204cbd2a84516f14ba2",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "MainBundleSize": 111958,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Award",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Award.prefab",
+            "AssetGUID": "593d2dcbad66846489191b229ec83fa8",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "LevelBoxPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelBoxPanel.prefab",
+            "AssetGUID": "831d710a09060b04793395915dde4d17",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "LevelScrollView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelScrollView.prefab",
+            "AssetGUID": "c91b71c26f2af204c8069602f09fce8a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "SkillItemPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillItemPanel.prefab",
+            "AssetGUID": "dd6a7ba5b78e73e4cbf9b6691358959a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "SkillRoot",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillRoot.prefab",
+            "AssetGUID": "75782c03afe33aa449577413c41afde1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "SkillSelectPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillSelectPanel.prefab",
+            "AssetGUID": "969a1b4f7ae5c084197bc8a4402e4b92",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "MainBundleSize": 27144,
+            "DependAssets": []
+        },
+        {
+            "Address": "activityCenterButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/activityCenterButton.prefab",
+            "AssetGUID": "b62ae6223bd6b9045b97aeb52d639895",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonFunButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/CommonFunButton.prefab",
+            "AssetGUID": "0fd423dbee1dac4449865b95f355b9b6",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "dailyAttendanceButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyAttendanceButton.prefab",
+            "AssetGUID": "f5a030af33535144dac495bcb630ef0a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "dailyDealButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyDealButton.prefab",
+            "AssetGUID": "17f406d970a5a874ca0175bd47096cb3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "firstRechargeButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/firstRechargeButton.prefab",
+            "AssetGUID": "f53a03480df4852499bd57bfb71acf80",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "friendButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/friendButton.prefab",
+            "AssetGUID": "1e770628b5307e741b6238b54e31e4ed",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "fundButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/fundButton.prefab",
+            "AssetGUID": "c66ed4fd8afea3546b79e411adac728c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "goldPigButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/goldPigButton.prefab",
+            "AssetGUID": "ef2eb8a7edbfd9e4fa84ba0b9fd82f96",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "monthCardButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/monthCardButton.prefab",
+            "AssetGUID": "e98bece0921fcd945bdf06363da113f9",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "pakageButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/pakageButton.prefab",
+            "AssetGUID": "5633dfa84a34ef94aa83694b87caf8b7",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "taskButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/taskButton.prefab",
+            "AssetGUID": "ba254f19fb669d54492e403fcd912889",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "MainBundleSize": 10026,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_BottomBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomBtn.prefab",
+            "AssetGUID": "52107d7e3c3455c458ccd44180db2894",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_BottomContainer",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomContainer.prefab",
+            "AssetGUID": "1bb4459261ea3aa46b186977854be74e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_EquipTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_EquipTips.prefab",
+            "AssetGUID": "e74d046c437ccc940a092c7d90454bf8",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_ItemTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_ItemTips.prefab",
+            "AssetGUID": "5a5af023d0f63004dbc344f52711f272",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Label",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Label.prefab",
+            "AssetGUID": "f3dd5368d0e268e44bda8e6cd193ba5f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_PlainTextTip",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_PlainTextTip.prefab",
+            "AssetGUID": "ab7e47ed33da19941a9357b63b9fbf2f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Common_Reward",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward.prefab",
+            "AssetGUID": "77d94953e2371604aac60b4027e2a3d3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Reward_Tip",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip.prefab",
+            "AssetGUID": "1ea25a101f1beed42bb6f56d07a2605f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Reward_Tip2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip2.prefab",
+            "AssetGUID": "e8a6b754c9c4be644bf6d9debc35b067",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Reward_Tip_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip_Item.prefab",
+            "AssetGUID": "d6bd1adeb3db64c4ca2995ce441ede36",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_RewardItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem.prefab",
+            "AssetGUID": "cd145acc985a15049b4374c895dd5de2",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Common_RewardItem_2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem_2.prefab",
+            "AssetGUID": "5cb5e601a8b40ec48a153fa8f4d4b6c1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Sec_Confirm",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Sec_Confirm.prefab",
+            "AssetGUID": "aa03dacf88815a54abefcb22aa6f19dc",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Common_SubBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_SubBtn.prefab",
+            "AssetGUID": "c8d32b50926d10146bbc3331b39159a0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_CommonBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab",
+            "AssetGUID": "891e1b90e5b3f6e42b7c0ba98c4b99d9",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_CommonBtn2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn2.prefab",
+            "AssetGUID": "6cc4279ef36f3f047a3bd2b197a026ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_CommonBtn3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn3.prefab",
+            "AssetGUID": "7fcf19567bd685a4fbd25706486f3d6a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_CommonTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips.prefab",
+            "AssetGUID": "9ef8bb441d2c83e4b9aa4246b8433efc",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_CommonTips3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips3.prefab",
+            "AssetGUID": "f7673bae7f6a3dd4fb1bd9a95b08a174",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "MainBundleSize": 48065,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Compound",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Compound.prefab",
+            "AssetGUID": "28e7b20f4d639f1429eb7d3ca0d26339",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_CompoundSuc",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_CompoundSuc.prefab",
+            "AssetGUID": "b81e3e4436fc4ee4ea2ef5f0b62db71a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_EquipDownGrade",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_EquipDownGrade.prefab",
+            "AssetGUID": "0bec8d2f130e7c848afc4d8a7605123a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Equipment",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Equipment.prefab",
+            "AssetGUID": "821581742a6af2742ac44e14daf6dcb4",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "PlayerPos",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/PlayerPos.prefab",
+            "AssetGUID": "9e036aeeeb1f9d9488aed8b09d09f3d1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_EquipLevelConsumeItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipLevelConsumeItem.prefab",
+            "AssetGUID": "b6c2168cf7ee25d4896da19d5bf30af1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_EquipSkill",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipSkill.prefab",
+            "AssetGUID": "ddfe2e4c6ccb2274796794fd6dca20a1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_TTIT",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_TTIT.prefab",
+            "AssetGUID": "715c650dc42739c4bb40871b7df16f1d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "MainBundleSize": 35344,
+            "DependAssets": []
+        },
+        {
+            "Address": "AwardGetPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/AwardGetPanel.prefab",
+            "AssetGUID": "02e9297429b820a46bad5c3a09b9d8ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "ChangeNamePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ChangeNamePanel.prefab",
+            "AssetGUID": "63ab4a48e9fddb74289230df05714ca0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd"
+            ]
+        },
+        {
+            "Address": "Common_Btn1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn1.prefab",
+            "AssetGUID": "77b4a040f4d5ae14c808850dc8cbf9a2",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Btn2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn2.prefab",
+            "AssetGUID": "f95c28b30c7bb0344a12ec9ac75be219",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Prompt",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Prompt.prefab",
+            "AssetGUID": "3bd99a004673b0643a0ddb23a40ec007",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_Resource",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Resource.prefab",
+            "AssetGUID": "eae40ae93e8ac2e498653820f5c9bf24",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Common_TopTab",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_TopTab.prefab",
+            "AssetGUID": "49f4e768cc0ffe4449633ed2ff1a50d7",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "CompoundFinishPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundFinishPanel.prefab",
+            "AssetGUID": "70dcc9ad18c89a04facb81ac22cc198c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab"
+            ]
+        },
+        {
+            "Address": "CompoundPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundPanel.prefab",
+            "AssetGUID": "663a0d694237ecf4f8d593777b3ce638",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab"
+            ]
+        },
+        {
+            "Address": "Container_Bar",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Bar.prefab",
+            "AssetGUID": "15adbd103c8695c4f9228b7f449fcde3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Container_Details",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Details.prefab",
+            "AssetGUID": "8a579c48de871d34e999957d334e9625",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "DecreasePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DecreasePanel.prefab",
+            "AssetGUID": "4c78cdb6a2ab28a46963a9a1765d183b",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipMaterialItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab"
+            ]
+        },
+        {
+            "Address": "DrawingText",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DrawingText.prefab",
+            "AssetGUID": "ce23b759dcee3724dbba13504c2a2521",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "EquipBack",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipBack.prefab",
+            "AssetGUID": "36a0c96597c848f408b297546a317f0c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "EquipItemBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab",
+            "AssetGUID": "3a9dd4943f5284f43bdfca79d6bda9c4",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "EquipLevelUpPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipLevelUpPanel.prefab",
+            "AssetGUID": "ccfb5519dd2968a43bd62c4ac5f9eafb",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab"
+            ]
+        },
+        {
+            "Address": "EquipMaterialItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipMaterialItem.prefab",
+            "AssetGUID": "ef9a60d0c08b80b4ba8b0964a744af83",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "EquipScrollView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipScrollView.prefab",
+            "AssetGUID": "878755024537eae458082afab65ababd",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "GeneralMaterialPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralMaterialPanel.prefab",
+            "AssetGUID": "f735316993c3e6b4ab77e3494c6c8f42",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "GeneralRewardPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralRewardPanel.prefab",
+            "AssetGUID": "4d3d25d96044c85439fce9b141dff310",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "HeadBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadBtn.prefab",
+            "AssetGUID": "2755aabb3d7a8d142b0c809f7d600e73",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "HeadFrameBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadFrameBtn.prefab",
+            "AssetGUID": "837555d272addbc4d9b44f2ee173117f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "ItemPrefab1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemPrefab1.prefab",
+            "AssetGUID": "badb92b0cf563a241bed688bad23fe18",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab"
+            ]
+        },
+        {
+            "Address": "ItemView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemView.prefab",
+            "AssetGUID": "5cf2108ac8f04f54fa9447e1b200aae0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "JiyuGamePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/JiyuGamePanel.prefab",
+            "AssetGUID": "29a27687658295c45aac36c53b27f83b",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "LockNewChapterPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/LockNewChapterPanel.prefab",
+            "AssetGUID": "8f263824890baa341a8abad152135ff8",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Achieve",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Achieve.prefab",
+            "AssetGUID": "79b044b25e7256648b7f3e4eef2a616a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Panel_Battle",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Battle.prefab",
+            "AssetGUID": "2ab5120193c0216438bbc64df9aa0afd",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Panel_Challege",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege.prefab",
+            "AssetGUID": "94f21556639721343a01c7b87fb838ba",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Panel_Challege_AreaInfo",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege_AreaInfo.prefab",
+            "AssetGUID": "4826e21f5dbabf74f9157340aee4f16d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Panel_Common_Events",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Common_Events.prefab",
+            "AssetGUID": "41ae5c5b6de401349977f67c74713f4d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Panel_Notice",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Notice.prefab",
+            "AssetGUID": "be08b45960210854a84b438900b1130e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Pass",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Pass.prefab",
+            "AssetGUID": "6af6a48c9f01a304c9a8fcac98b67700",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Panel_Patrol",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Patrol.prefab",
+            "AssetGUID": "0ba3719634494e6418b78cd9c2069c01",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Panel_Person",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Person.prefab",
+            "AssetGUID": "986cebdc08eb131449d64d8d558851ab",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Share",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Share.prefab",
+            "AssetGUID": "6de53b1b543c57443bafedb017be2fa6",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Panel_Shop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Shop.prefab",
+            "AssetGUID": "43bacd9289100d841bd2569061c04cf7",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Sign",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Sign.prefab",
+            "AssetGUID": "041072f4b9c567d45963830f922d1f19",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "Panel_Talent",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent.prefab",
+            "AssetGUID": "cf40bcc3a1bc37f428fd36b6f18910d2",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Talent_Prop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent_Prop.prefab",
+            "AssetGUID": "d40e2fce6fcc2f5469c2c07289a7a245",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Task_DailyAndWeekly",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Task_DailyAndWeekly.prefab",
+            "AssetGUID": "ab1bf8542fbc3f242ad0e7caf2794e08",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Panel_Tips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Tips.prefab",
+            "AssetGUID": "babbfd059874ad741aaaff9b0e8a26af",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "PlayerInformtionPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerInformtionPanel.prefab",
+            "AssetGUID": "7ec755ba63d17a34b8edb522fdb9b2ff",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "PlayerPropertyPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerPropertyPanel.prefab",
+            "AssetGUID": "3ef1f85af3080fc4da2e7e1a2d6f443e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "RapidCompoundPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundPanel.prefab",
+            "AssetGUID": "39976d46409c4af47aa4464be185659c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "RapidCompoundResultPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundResultPanel.prefab",
+            "AssetGUID": "532b677cdcdb4d94bbefd8bbbbbf7714",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SettlementItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SettlementItem.prefab",
+            "AssetGUID": "12e86d5faa23d49419ebb6f034fd778e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SkeletonGraphic_Draw_Common",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_Common.prefab",
+            "AssetGUID": "570c53109f1d6464abc7737f22ccb8ff",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SkeletonGraphic_Draw_S",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_S.prefab",
+            "AssetGUID": "32458945342611846a72b6d5e028fd05",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Achieve_Gift",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Gift.prefab",
+            "AssetGUID": "d8e31ee5cfcd0df49b46f9cf229fc67e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Achieve_Group",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Group.prefab",
+            "AssetGUID": "17f192cbe8d92144daf3dba5b6872cdd",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_Achieve_List",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_List.prefab",
+            "AssetGUID": "27b65079bb2f17649adcffd2dc1b93b3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Challenge_Container_AreaDetails",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Challenge_Container_AreaDetails.prefab",
+            "AssetGUID": "2ecf01a17f173794da5ce74b091fe32f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Equipment",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Equipment.prefab",
+            "AssetGUID": "6920354c69838f04db26cf21c469253f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Notice_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Notice_Item.prefab",
+            "AssetGUID": "fb2bb1b77214a814eac3af4ec4a14927",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_NotPurchase",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_NotPurchase.prefab",
+            "AssetGUID": "0403c06b076a88541b6e7f8709da01c0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Pass_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Box.prefab",
+            "AssetGUID": "1bb618e1dbabce844aafb59e38dae34c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_Pass_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Item.prefab",
+            "AssetGUID": "0ff3a012ed7c05344927e033b0a9d6bf",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem.prefab",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_Pass_Token",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token.prefab",
+            "AssetGUID": "9334867c83a3bc548958fb914555d133",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Pass_Token_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token_Item.prefab",
+            "AssetGUID": "ae04cdd8fcfb2464da1842dea18b12a5",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Person_Btn51",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn51.prefab",
+            "AssetGUID": "2d63f4b2a833d4544be11b042b69f55e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Person_Btn52",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn52.prefab",
+            "AssetGUID": "6439de442d07e8d4eaaa6f22497c865c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Person_ChangeName",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_ChangeName.prefab",
+            "AssetGUID": "498d715c6419e61498af296fe054e3cd",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_Person_Frame",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Frame.prefab",
+            "AssetGUID": "535b1ff47d3491443968cee1b56871d6",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Person_Head",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Head.prefab",
+            "AssetGUID": "d907cf6ddbd51504badabe5fc6d115bb",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Person_UserInfo",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_UserInfo.prefab",
+            "AssetGUID": "b44e03d2911a07445bae450adeb64b37",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Purchase",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Purchase.prefab",
+            "AssetGUID": "071d2b0eaac0868429860104b9623dcc",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_RawBackground",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_RawBackground.prefab",
+            "AssetGUID": "ac32553b14b5a5c4195abf951302adbf",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Share_Btn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Share_Btn.prefab",
+            "AssetGUID": "4a599f12a69257b49b2a4583e7290362",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_1101",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1101.prefab",
+            "AssetGUID": "fcd0dc551c9c1fc4fa23e1ba7c0b3c17",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn2.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_1102_SBox",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1102_SBox.prefab",
+            "AssetGUID": "60bb8f9486d19cd4f9f2ec38c3f399f0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn2.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_1103_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1103_Box.prefab",
+            "AssetGUID": "12b2ea4d90d13714e89764cc25b7289c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_ChapterGift",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ChapterGift.prefab",
+            "AssetGUID": "140b269adb23dac4da127c896f2ea00f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_Draw",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Draw.prefab",
+            "AssetGUID": "3929f7c81a9b50c48bba09143f062c79",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_S.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_Common.prefab",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_item.prefab",
+            "AssetGUID": "90130d9697cc11d4db81eea25833a094",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab"
+            ]
+        },
+        {
+            "Address": "SubPanel_Shop_ModelBG",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ModelBG.prefab",
+            "AssetGUID": "d75ea777f571ab246ad77451313d8c3f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Pre",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre.prefab",
+            "AssetGUID": "1ceface367114674996081b193435aee",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Pre_Row",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre_Row.prefab",
+            "AssetGUID": "a02c3e7ba3210a24aa83aba06c0fa6b6",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_PreBg",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_PreBg.prefab",
+            "AssetGUID": "fca877b97e3bcd84081fc1196be6fa7d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Tag0",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag0.prefab",
+            "AssetGUID": "8a4b3841e1b7a2c47a0ff5a0bb9c1619",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Tag1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag1.prefab",
+            "AssetGUID": "75bc82c30ea6a804cacbe528f5e5b794",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Tag2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag2.prefab",
+            "AssetGUID": "b5de93500e8a1984c98eb66940706bf4",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Shop_Tag3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag3.prefab",
+            "AssetGUID": "4431d741093f8be4bb8e764c4e7e3e54",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_Task_DAndW",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_DAndW.prefab",
+            "AssetGUID": "bbe3d3667b4ead94d9af8070f6ef43b5",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_Task_Score_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_Score_Box.prefab",
+            "AssetGUID": "c5d6197b7849d4a4b849a22242f93990",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "ToggleItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ToggleItem.prefab",
+            "AssetGUID": "24d74ddbfca6b9344b66c630046ba00f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "MainBundleSize": 366514,
+            "DependAssets": []
+        },
+        {
+            "Address": "BagItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagItem.prefab",
+            "AssetGUID": "02aed8251a7b2474ebe7b02a1d4fe605",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "BagPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagPanel.prefab",
+            "AssetGUID": "bb57e7b66ed962848ab1d0b78f20803f",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "DefeatPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/DefeatPanel.prefab",
+            "AssetGUID": "83d8625cbc2aa074f981868bc37105a5",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "FailPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FailPanel.prefab",
+            "AssetGUID": "45769572324172347aa5cce37a48f595",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "FPSShow",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FPSShow.prefab",
+            "AssetGUID": "0d74bcf52dd018d448c7f1879afc777d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "LackPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/LackPanel.prefab",
+            "AssetGUID": "4376e4651487d1d4fa92b632279503d9",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "MailItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailItem.prefab",
+            "AssetGUID": "1065bf0f98daf45468cc6babbaeec821",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "MailPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailPanel.prefab",
+            "AssetGUID": "6ba19d4713c950d40ba92e1b85bb0a25",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Bag",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Bag.prefab",
+            "AssetGUID": "d1b6ec1eb9480fc45b50259bd7acac92",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Mail",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Mail.prefab",
+            "AssetGUID": "f8d59ff3fff3a4e488f56b1fe8c99455",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "PausePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PausePanel.prefab",
+            "AssetGUID": "a200ff6b266d9e3409d910ca86117b84",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "PlayerHpPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PlayerHpPanel.prefab",
+            "AssetGUID": "028bfb79f3b8a024b830fd6e9cae9b40",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "ResourceItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourceItem.prefab",
+            "AssetGUID": "712e83fd170510e4bacba4bfd77c8310",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "ResourcePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourcePanel.prefab",
+            "AssetGUID": "3f1dad12b72989c40834706461c698f1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "Rewired Input Manager",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Rewired Input Manager.prefab",
+            "AssetGUID": "82c5f63038dbdc54f8fb2b7bf7356bca",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "RunTimeHUD",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/RunTimeHUD.prefab",
+            "AssetGUID": "2054d0388361fa54ba6820bec6136867",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_MailItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SubPanel_MailItem.prefab",
+            "AssetGUID": "00926ff9e7a4919478645d09cd52d7f2",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "SuccessPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SuccessPanel.prefab",
+            "AssetGUID": "ce3a162108e24554ca96ac746a5befd1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "TipPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TipPanel.prefab",
+            "AssetGUID": "a87ca08a8e6c23f4886846f464992a55",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "TouchController",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TouchController.prefab",
+            "AssetGUID": "51830ccf94f76784090b432dddfe29e0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "TurntablePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TurntablePanel.prefab",
+            "AssetGUID": "2d37256d56f89574f9c802737eeed037",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "MainBundleSize": 61999,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_Settings",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/Panel_Settings.prefab",
+            "AssetGUID": "6858774dcd7bb8f4ab7899b8103ae3a4",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_settings.bundle",
+            "MainBundleSize": 15332,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "SubPanel_SettingsBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsBtn.prefab",
+            "AssetGUID": "8b99d7f70be7955439aa423e86af0ab1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_settings.bundle",
+            "MainBundleSize": 15332,
+            "DependAssets": []
+        },
+        {
+            "Address": "SubPanel_SettingsItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsItem.prefab",
+            "AssetGUID": "a8f9908bc76adb0459f16d3a7390f3a3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_settings.bundle",
+            "MainBundleSize": 15332,
+            "DependAssets": []
+        },
+        {
+            "Address": "Panel_ParasTest",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/Panel_ParasTest.prefab",
+            "AssetGUID": "6615d8a3bd12b02488c255deead182f9",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_testui.bundle",
+            "MainBundleSize": 26405,
+            "DependAssets": []
+        },
+        {
+            "Address": "RedPointTPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/RedPointTPanel.prefab",
+            "AssetGUID": "de2c6cfb4c4413b4b8f931fd0b9b9a52",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_testui.bundle",
+            "MainBundleSize": 26405,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "SubPanel_ParasItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/SubPanel_ParasItem.prefab",
+            "AssetGUID": "e55278aa9194bfb43834716697a7040a",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_prefabs_others_testui.bundle",
+            "MainBundleSize": 26405,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd"
+            ]
+        },
+        {
+            "Address": "bg",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+            "AssetGUID": "922674f5e90859544a2fd87178022f02",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "bg_fox",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/bg_fox.png",
+            "AssetGUID": "7311462ce2fba324dbd4f6b9e9129882",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_blackheart",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_blackheart.png",
+            "AssetGUID": "149ad0a3f7b9e7a49a97c36120a96622",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_fangpian",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_fangpian.png",
+            "AssetGUID": "0f8b55ba3b28404419b03222ee35b65c",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_meihua",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_meihua.png",
+            "AssetGUID": "0b358122253e89e4c946dcbf9cd72c64",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "icon_redheart",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_redheart.png",
+            "AssetGUID": "e51df36a136f5f94faba9e65cc3eb41e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "MainBundleSize": 305540,
+            "DependAssets": []
+        },
+        {
+            "Address": "Initialization",
+            "AssetPath": "Assets/Scenes/Initialization/Initialization.unity",
+            "AssetGUID": "c96993d570b7f054985563226e65db22",
+            "AssetTags": [],
+            "MainBundleName": "assets_scenes_initialization.bundle",
+            "MainBundleSize": 69355,
+            "DependAssets": [
+                "Packages/com.sharelib.logviewer/Runtime/Images/Save.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_horizental_thumb.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_vertical_thumb.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/collapse.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/log_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_horizental_back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/date.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/error_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/reporterScrollerSkin.guiskin",
+                "Packages/com.sharelib.logviewer/Runtime/Images/software.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/fps.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/even_log.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/clear.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_down_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_right_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/memory.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/search.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/timer_1.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/selected.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/button_active.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/bar.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/buildFrom.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_left_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/clearOnSceneLoaded.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/warning_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_vertical_back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/graphicCard.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/info.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/copy.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/odd_log.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_up_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/ComputerIcon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/UnityIcon.png",
+                "Assets/Resources/bg.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/user.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/close.png"
+            ]
+        },
+        {
+            "Address": "Login",
+            "AssetPath": "Assets/Scenes/Login/Login.unity",
+            "AssetGUID": "30b20e8c03976bf4e9ec08eaafd5155d",
+            "AssetTags": [],
+            "MainBundleName": "assets_scenes_login.bundle",
+            "MainBundleSize": 63173,
+            "DependAssets": []
+        },
+        {
+            "Address": "UIMenu",
+            "AssetPath": "Assets/Scenes/UIMenu/UIMenu.unity",
+            "AssetGUID": "213419d0399ed714082ca5ffcd072255",
+            "AssetTags": [],
+            "MainBundleName": "assets_scenes_uimenu.bundle",
+            "MainBundleSize": 63175,
+            "DependAssets": []
+        },
+        {
+            "Address": "config_tbcard_group",
+            "AssetPath": "Assets/FoxCard/ConfigJsonData/config_tbcard_group.json",
+            "AssetGUID": "8ae8c9146acb3c5469c2a29a14505ff0",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_configjsondata.bundle",
+            "MainBundleSize": 2051,
+            "DependAssets": []
+        },
+        {
+            "Address": "config_tblanguage",
+            "AssetPath": "Assets/FoxCard/ConfigJsonData/config_tblanguage.json",
+            "AssetGUID": "13450f707d83a3d48aaf5c95d3e80939",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_configjsondata.bundle",
+            "MainBundleSize": 2051,
+            "DependAssets": []
+        },
+        {
+            "Address": "GameRoot",
+            "AssetPath": "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/GameRoot.prefab",
+            "AssetGUID": "892508ac31e670d49a8765b99dffcf76",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_scripts_hotfix_hotfixprefab.bundle",
+            "MainBundleSize": 8185,
+            "DependAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png"
+            ]
+        },
+        {
+            "Address": "HotUpdatePrefab",
+            "AssetPath": "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/HotUpdatePrefab.prefab",
+            "AssetGUID": "ad86922f5862476438470a16a3206683",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_scripts_hotfix_hotfixprefab.bundle",
+            "MainBundleSize": 8185,
+            "DependAssets": []
+        },
+        {
+            "Address": "DOTween.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/DOTween.dll.bytes",
+            "AssetGUID": "28dc82233bcd872498f7e64cd6eb0450",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "FoxCard.HotFix_Logic.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_Logic.dll.bytes",
+            "AssetGUID": "e69446e47d1822743a030d1116de0c13",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "FoxCard.HotFix_UI.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_UI.dll.bytes",
+            "AssetGUID": "7bfacb3c7506e3f459cd16608f5a5e78",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/mscorlib.dll.bytes",
+            "AssetGUID": "712fe9db503d4bb438b85f17710345fa",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "Newtonsoft.Json.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Newtonsoft.Json.dll.bytes",
+            "AssetGUID": "23a02d390f4613242ad5694029720fb4",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/System.Core.dll.bytes",
+            "AssetGUID": "9ac816c7037c03e439a1a2560eb0493e",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/System.dll.bytes",
+            "AssetGUID": "514bd4965090bb64484887cc730910c1",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/UniTask.dll.bytes",
+            "AssetGUID": "142dcc53528ac5747a8992843a754494",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "Unity.Mathematics.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Unity.Mathematics.dll.bytes",
+            "AssetGUID": "001596e04207ce14abdd54dacb12ed5d",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "5597a71248d8d544aa443ac6cc9cd2aa",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "Wx.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Wx.dll.bytes",
+            "AssetGUID": "2ec72c13a2c065b42b6bac35812d94d3",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/YooAsset.dll.bytes",
+            "AssetGUID": "5876bb772a9716e4caa5c66e6d4def08",
+            "AssetTags": [],
+            "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
+            "MainBundleSize": 3134179,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "FileName": "assets_foxcard_art_resources_audioclips_banks_2404b9ec2c16025735c83ecb015a991c.bundle",
+            "FileHash": "2404b9ec2c16025735c83ecb015a991c",
+            "FileCRC": "7f960d8d",
+            "FileSize": 7585464,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.bank.bytes",
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.strings.bank.bytes",
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.bank.bytes",
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.strings.bank.bytes",
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.bank.bytes",
+                "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.strings.bank.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_bgm.bundle",
+            "FileName": "assets_foxcard_art_resources_audioclips_bgm_86861e38a87393455678aca79d53c980.bundle",
+            "FileHash": "86861e38a87393455678aca79d53c980",
+            "FileCRC": "76c4d802",
+            "FileSize": 9567321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/AudioClips/Bgm/RunTimeBGM.mp3",
+                "Assets/FoxCard/Art_Resources/AudioClips/Bgm/UIBGM.mp3"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_soundeffects.bundle",
+            "FileName": "assets_foxcard_art_resources_audioclips_soundeffects_94b52a5a1e6d66f26117bd2fd10dbb22.bundle",
+            "FileHash": "94b52a5a1e6d66f26117bd2fd10dbb22",
+            "FileCRC": "c92e585e",
+            "FileSize": 14695,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Click.mp3",
+                "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Warning.mp3"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_foxcard_545b2e006c3854db738a8dd033bb9ebb.bundle",
+            "FileHash": "545b2e006c3854db738a8dd033bb9ebb",
+            "FileCRC": "119cb925",
+            "FileSize": 111958,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_foxcard_art_resources_ui_textures.bundle",
+                "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+                "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Card.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Loading.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/LoginPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelBattleShop.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelInGame.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_battle_24780a08fec35914f2040fb7d0fb0eb1.bundle",
+            "FileHash": "24780a08fec35914f2040fb7d0fb0eb1",
+            "FileCRC": "4eae174e",
+            "FileSize": 27144,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Award.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelBoxPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelScrollView.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillItemPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillRoot.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillSelectPanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons_71409d71243d2e784b4e6298710b03e9.bundle",
+            "FileHash": "71409d71243d2e784b4e6298710b03e9",
+            "FileCRC": "3895ae9d",
+            "FileSize": 10026,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/activityCenterButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/CommonFunButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyAttendanceButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyDealButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/firstRechargeButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/friendButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/fundButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/goldPigButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/monthCardButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/pakageButton.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/taskButton.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_commonui_e6228010d478e30fa4fb4ba5f316745d.bundle",
+            "FileHash": "e6228010d478e30fa4fb4ba5f316745d",
+            "FileCRC": "5eb4d6ab",
+            "FileSize": 48065,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+                "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomContainer.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_EquipTips.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_ItemTips.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Label.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_PlainTextTip.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip2.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip_Item.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem_2.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Sec_Confirm.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_SubBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn2.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn3.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips3.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_equip_ec71c874a7332e8a051bb65d9e8b9df3.bundle",
+            "FileHash": "ec71c874a7332e8a051bb65d9e8b9df3",
+            "FileCRC": "9e93fbe5",
+            "FileSize": 35344,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_foxcard_art_resources_ui_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Compound.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_CompoundSuc.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_EquipDownGrade.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Equipment.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/PlayerPos.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipLevelConsumeItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipSkill.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_TTIT.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu_82465429eb311b42e6cebff591dd2cf6.bundle",
+            "FileHash": "82465429eb311b42e6cebff591dd2cf6",
+            "FileCRC": "73388f50",
+            "FileSize": 366514,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+                "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/AwardGetPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ChangeNamePanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn1.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn2.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Prompt.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Resource.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_TopTab.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundFinishPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Bar.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Details.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DecreasePanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DrawingText.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipBack.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipLevelUpPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipMaterialItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipScrollView.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralMaterialPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralRewardPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadFrameBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemPrefab1.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemView.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/JiyuGamePanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/LockNewChapterPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Achieve.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Battle.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege_AreaInfo.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Common_Events.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Notice.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Pass.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Patrol.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Person.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Share.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Shop.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Sign.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent_Prop.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Task_DailyAndWeekly.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Tips.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerInformtionPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerPropertyPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundResultPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SettlementItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_Common.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_S.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Gift.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Group.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_List.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Challenge_Container_AreaDetails.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Equipment.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Notice_Item.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_NotPurchase.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Box.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Item.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token_Item.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn51.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn52.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_ChangeName.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Frame.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Head.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_UserInfo.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Purchase.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_RawBackground.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Share_Btn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1101.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1102_SBox.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1103_Box.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ChapterGift.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Draw.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_item.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ModelBG.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre_Row.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_PreBg.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag0.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag1.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag2.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag3.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_DAndW.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_Score_Box.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ToggleItem.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui_f7fea996b17fa2b250c8ae5525718842.bundle",
+            "FileHash": "f7fea996b17fa2b250c8ae5525718842",
+            "FileCRC": "910e57cb",
+            "FileSize": 61999,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/DefeatPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FailPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FPSShow.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/LackPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Bag.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Mail.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PausePanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PlayerHpPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourceItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourcePanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Rewired Input Manager.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/RunTimeHUD.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SubPanel_MailItem.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SuccessPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TipPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TouchController.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TurntablePanel.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_settings.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_settings_72acd5041bd3ff59798f00c5595afc57.bundle",
+            "FileHash": "72acd5041bd3ff59798f00c5595afc57",
+            "FileCRC": "f46bc147",
+            "FileSize": 15332,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+                "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/Panel_Settings.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsBtn.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsItem.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_testui.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_prefabs_others_testui_d3412c45c138dff28aa4155969f53e6b.bundle",
+            "FileHash": "d3412c45c138dff28aa4155969f53e6b",
+            "FileCRC": "dc981877",
+            "FileSize": 26405,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/Panel_ParasTest.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/RedPointTPanel.prefab",
+                "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/SubPanel_ParasItem.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "FileName": "assets_foxcard_art_resources_ui_textures_4a697b451c3c4f9fbcc52016906f22bd.bundle",
+            "FileHash": "4a697b451c3c4f9fbcc52016906f22bd",
+            "FileCRC": "908442d9",
+            "FileSize": 305540,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+                "Assets/FoxCard/Art_Resources/UI/Textures/bg_fox.png",
+                "Assets/FoxCard/Art_Resources/UI/Textures/icon_blackheart.png",
+                "Assets/FoxCard/Art_Resources/UI/Textures/icon_fangpian.png",
+                "Assets/FoxCard/Art_Resources/UI/Textures/icon_meihua.png",
+                "Assets/FoxCard/Art_Resources/UI/Textures/icon_redheart.png"
+            ]
+        },
+        {
+            "BundleName": "assets_scenes_initialization.bundle",
+            "FileName": "assets_scenes_initialization_4219238407081c8057775bcc11efed24.bundle",
+            "FileHash": "4219238407081c8057775bcc11efed24",
+            "FileCRC": "f6c024e5",
+            "FileSize": 69355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_resources.bundle",
+                "share_packages_com_sharelib_logviewer_runtime_images.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/Initialization/Initialization.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_scenes_login.bundle",
+            "FileName": "assets_scenes_login_db8d312521de5bde83c80e45b104e7e0.bundle",
+            "FileHash": "db8d312521de5bde83c80e45b104e7e0",
+            "FileCRC": "66ca7f47",
+            "FileSize": 63173,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/Login/Login.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_scenes_uimenu.bundle",
+            "FileName": "assets_scenes_uimenu_2938f4471ca1f0788f62fb3ea87ec1d0.bundle",
+            "FileHash": "2938f4471ca1f0788f62fb3ea87ec1d0",
+            "FileCRC": "ded3f4b6",
+            "FileSize": 63175,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/UIMenu/UIMenu.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_configjsondata.bundle",
+            "FileName": "assets_foxcard_configjsondata_d48cc82ec3774d080588c3370b509764.bundle",
+            "FileHash": "d48cc82ec3774d080588c3370b509764",
+            "FileCRC": "a4cc74f2",
+            "FileSize": 2051,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/ConfigJsonData/config_tbcard_group.json",
+                "Assets/FoxCard/ConfigJsonData/config_tblanguage.json"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_scripts_hotfix_hotfixprefab.bundle",
+            "FileName": "assets_foxcard_scripts_hotfix_hotfixprefab_cb8c7fb221f5508894e245e7ca108204.bundle",
+            "FileHash": "cb8c7fb221f5508894e245e7ca108204",
+            "FileCRC": "f09928ff",
+            "FileSize": 8185,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assets_foxcard_art_resources_ui_textures.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/GameRoot.prefab",
+                "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/HotUpdatePrefab.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_hotfixdlls.bundle",
+            "FileName": "assets_foxcard_hotfixdlls_1b7b5ab3656cdef19740226c97b177d5.bundle",
+            "FileHash": "1b7b5ab3656cdef19740226c97b177d5",
+            "FileCRC": "a93306ba",
+            "FileSize": 3134179,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/FoxCard/HotFixDlls/DOTween.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_Logic.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_UI.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/mscorlib.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/Newtonsoft.Json.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/System.Core.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/System.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/UniTask.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/Unity.Mathematics.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/UnityEngine.CoreModule.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/Wx.dll.bytes",
+                "Assets/FoxCard/HotFixDlls/YooAsset.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "FileName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos_14a13543af273f5382e2f8551b5eee32.bundle",
+            "FileHash": "14a13543af273f5382e2f8551b5eee32",
+            "FileCRC": "a98d3fa5",
+            "FileSize": 7005,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "unityshaders_61e32e101624f123e8af7ab94835761f.bundle",
+            "FileHash": "61e32e101624f123e8af7ab94835761f",
+            "FileCRC": "f64743fa",
+            "FileSize": 20030,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ThirdPartyPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+            "FileName": "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials_541757deee1d09b9656193b9535a6f71.bundle",
+            "FileHash": "541757deee1d09b9656193b9535a6f71",
+            "FileCRC": "41378b79",
+            "FileSize": 373770,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/ThirdPartyPackages/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+            "FileName": "share_assets_thirdpartypackages_textmesh_pro_fonts_36799d788c43eb64330ab5cd63db4e14.bundle",
+            "FileHash": "36799d788c43eb64330ab5cd63db4e14",
+            "FileCRC": "544ecebf",
+            "FileSize": 227294,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ThirdPartyPackages/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_sharelib_logviewer_runtime_images.bundle",
+            "FileName": "share_packages_com_sharelib_logviewer_runtime_images_12837ec0756691e94833b32e439726bc.bundle",
+            "FileHash": "12837ec0756691e94833b32e439726bc",
+            "FileCRC": "20280359",
+            "FileSize": 70233,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.sharelib.logviewer/Runtime/Images/Save.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_horizental_thumb.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_vertical_thumb.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/collapse.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/log_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_horizental_back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/date.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/error_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/reporterScrollerSkin.guiskin",
+                "Packages/com.sharelib.logviewer/Runtime/Images/software.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/fps.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/even_log.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/clear.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_down_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_right_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/memory.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/search.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/timer_1.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/selected.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/button_active.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/bar.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/buildFrom.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_left_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/clearOnSceneLoaded.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/warning_icon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_vertical_back.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/graphicCard.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/info.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/copy.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/odd_log.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/scroller_up_arraw.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/ComputerIcon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/UnityIcon.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/user.png",
+                "Packages/com.sharelib.logviewer/Runtime/Images/close.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_resources.bundle",
+            "FileName": "share_assets_resources_fc86a77c44a908900e451c2d4bf4b38d.bundle",
+            "FileHash": "fc86a77c44a908900e451c2d4bf4b38d",
+            "FileCRC": "95b56cd2",
+            "FileSize": 183535,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Resources/bg.png"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

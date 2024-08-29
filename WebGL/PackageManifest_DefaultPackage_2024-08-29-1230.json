@@ -1,0 +1,1670 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-08-29-1230",
+    "AssetList": [
+        {
+            "Address": "BGM.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "BGM.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/BGM.strings.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Master.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Master.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/Master.strings.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "SoundEffects.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "SoundEffects.strings.bank",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Banks/SoundEffects.strings.bank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "RunTimeBGM",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Bgm/RunTimeBGM.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "UIBGM",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/Bgm/UIBGM.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "Click",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Click.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "Warning",
+            "AssetPath": "Assets/FoxCard/Art_Resources/AudioClips/SoundEffects/Warning.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "Card",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Card.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "Loading",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/Loading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "LoginPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/LoginPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "PanelBattleShop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelBattleShop.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "PanelInGame",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/FoxCard/PanelInGame.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "Award",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Award.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "LevelBoxPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelBoxPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "LevelScrollView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/LevelScrollView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "SkillItemPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillItemPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "SkillRoot",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillRoot.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "SkillSelectPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/SkillSelectPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "activityCenterButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/activityCenterButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "CommonFunButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/CommonFunButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "dailyAttendanceButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyAttendanceButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "dailyDealButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/dailyDealButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "firstRechargeButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/firstRechargeButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "friendButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/friendButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "fundButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/fundButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "goldPigButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/goldPigButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "monthCardButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/monthCardButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "pakageButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/pakageButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "taskButton",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Battle/Buttons/taskButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "Common_BottomBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_BottomContainer",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_BottomContainer.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_EquipTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_EquipTips.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_ItemTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_ItemTips.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Label",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Label.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_PlainTextTip",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_PlainTextTip.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Reward",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Reward_Tip",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Reward_Tip2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Reward_Tip_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Reward_Tip_Item.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_RewardItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_RewardItem_2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_RewardItem_2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_Sec_Confirm",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_Sec_Confirm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Common_SubBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/Common_SubBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SubPanel_CommonBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SubPanel_CommonBtn2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SubPanel_CommonBtn3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonBtn3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SubPanel_CommonTips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SubPanel_CommonTips3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/CommonUI/SubPanel_CommonTips3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Panel_Compound",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Compound.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "Panel_CompoundSuc",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_CompoundSuc.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "Panel_EquipDownGrade",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_EquipDownGrade.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "Panel_Equipment",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/Panel_Equipment.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "PlayerPos",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/PlayerPos.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "SubPanel_EquipLevelConsumeItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipLevelConsumeItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "SubPanel_EquipSkill",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_EquipSkill.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "SubPanel_TTIT",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Equip/SubPanel_TTIT.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "AwardGetPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/AwardGetPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "ChangeNamePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ChangeNamePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Common_Btn1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Common_Btn2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Btn2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Common_Prompt",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Prompt.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Common_Resource",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_Resource.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Common_TopTab",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Common_TopTab.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "CompoundFinishPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundFinishPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "CompoundPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/CompoundPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Container_Bar",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Bar.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Container_Details",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Container_Details.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "DecreasePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DecreasePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "DrawingText",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/DrawingText.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "EquipBack",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipBack.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "EquipItemBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipItemBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "EquipLevelUpPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipLevelUpPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "EquipMaterialItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipMaterialItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "EquipScrollView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/EquipScrollView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "GeneralMaterialPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralMaterialPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "GeneralRewardPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/GeneralRewardPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "HeadBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "HeadFrameBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/HeadFrameBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "ItemPrefab1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemPrefab1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "ItemView",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ItemView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "JiyuGamePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/JiyuGamePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "LockNewChapterPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/LockNewChapterPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Achieve",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Achieve.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Battle",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Battle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Challege",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Challege_AreaInfo",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Challege_AreaInfo.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Common_Events",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Common_Events.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Notice",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Notice.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Pass",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Pass.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Patrol",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Patrol.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Person",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Person.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Share",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Share.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Shop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Shop.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Sign",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Sign.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Talent",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Talent_Prop",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Talent_Prop.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Task_DailyAndWeekly",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Task_DailyAndWeekly.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Panel_Tips",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/Panel_Tips.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "PlayerInformtionPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerInformtionPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "PlayerPropertyPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/PlayerPropertyPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "RapidCompoundPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "RapidCompoundResultPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/RapidCompoundResultPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SettlementItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SettlementItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SkeletonGraphic_Draw_Common",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_Common.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SkeletonGraphic_Draw_S",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SkeletonGraphic_Draw_S.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Achieve_Gift",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Gift.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Achieve_Group",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_Group.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Achieve_List",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Achieve_List.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Challenge_Container_AreaDetails",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Challenge_Container_AreaDetails.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Equipment",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Equipment.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Notice_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Notice_Item.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_NotPurchase",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_NotPurchase.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Pass_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Box.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Pass_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Item.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Pass_Token",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Pass_Token_Item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Pass_Token_Item.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_Btn51",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn51.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_Btn52",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Btn52.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_ChangeName",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_ChangeName.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_Frame",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Frame.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_Head",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_Head.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Person_UserInfo",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Person_UserInfo.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Purchase",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Purchase.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_RawBackground",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_RawBackground.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Share_Btn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Share_Btn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_1101",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1101.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_1102_SBox",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1102_SBox.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_1103_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_1103_Box.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_ChapterGift",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ChapterGift.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Draw",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Draw.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_item",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_item.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_ModelBG",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_ModelBG.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Pre",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Pre_Row",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Pre_Row.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_PreBg",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_PreBg.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Tag0",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag0.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Tag1",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Tag2",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Shop_Tag3",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Shop_Tag3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Task_DAndW",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_DAndW.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SubPanel_Task_Score_Box",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/SubPanel_Task_Score_Box.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "ToggleItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Jiyu/ToggleItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "BagItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "BagPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/BagPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "DefeatPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/DefeatPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "FailPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FailPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "FPSShow",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/FPSShow.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "LackPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/LackPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "MailItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "MailPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/MailPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "Panel_Bag",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Bag.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "Panel_Mail",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Panel_Mail.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "PausePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PausePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "PlayerHpPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/PlayerHpPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "ResourceItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourceItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "ResourcePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/ResourcePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "Rewired Input Manager",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/Rewired Input Manager.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "RunTimeHUD",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/RunTimeHUD.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "SubPanel_MailItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SubPanel_MailItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "SuccessPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/SuccessPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "TipPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TipPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "TouchController",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TouchController.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "TurntablePanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/RunTimeUI/TurntablePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "Panel_Settings",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/Panel_Settings.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "SubPanel_SettingsBtn",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "SubPanel_SettingsItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/Settings/SubPanel_SettingsItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "Panel_ParasTest",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/Panel_ParasTest.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11
+        },
+        {
+            "Address": "RedPointTPanel",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/RedPointTPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11
+        },
+        {
+            "Address": "SubPanel_ParasItem",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Prefabs/Others/TestUI/SubPanel_ParasItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11
+        },
+        {
+            "Address": "bg",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/bg.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "bg_fox",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/bg_fox.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "icon_blackheart",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_blackheart.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "icon_fangpian",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_fangpian.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "icon_meihua",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_meihua.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "icon_redheart",
+            "AssetPath": "Assets/FoxCard/Art_Resources/UI/Textures/icon_redheart.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "Initialization",
+            "AssetPath": "Assets/Scenes/Initialization/Initialization.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13
+        },
+        {
+            "Address": "Login",
+            "AssetPath": "Assets/Scenes/Login/Login.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "UIMenu",
+            "AssetPath": "Assets/Scenes/UIMenu/UIMenu.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15
+        },
+        {
+            "Address": "config_tbcard_group",
+            "AssetPath": "Assets/FoxCard/ConfigJsonData/config_tbcard_group.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16
+        },
+        {
+            "Address": "config_tblanguage",
+            "AssetPath": "Assets/FoxCard/ConfigJsonData/config_tblanguage.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16
+        },
+        {
+            "Address": "GameRoot",
+            "AssetPath": "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/GameRoot.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17
+        },
+        {
+            "Address": "HotUpdatePrefab",
+            "AssetPath": "Assets/FoxCard/Scripts/HotFix/HotFixPrefab/HotUpdatePrefab.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17
+        },
+        {
+            "Address": "DOTween.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/DOTween.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "FoxCard.HotFix_Logic.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_Logic.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "FoxCard.HotFix_UI.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/FoxCard.HotFix_UI.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "Newtonsoft.Json.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Newtonsoft.Json.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "Unity.Mathematics.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Unity.Mathematics.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "Wx.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/Wx.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/FoxCard/HotFixDlls/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_banks.bundle",
+            "UnityCRC": 23208739,
+            "FileHash": "2404b9ec2c16025735c83ecb015a991c",
+            "FileCRC": "7f960d8d",
+            "FileSize": 7585464,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_bgm.bundle",
+            "UnityCRC": 3994117631,
+            "FileHash": "86861e38a87393455678aca79d53c980",
+            "FileCRC": "76c4d802",
+            "FileSize": 9567321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_audioclips_soundeffects.bundle",
+            "UnityCRC": 3544973698,
+            "FileHash": "94b52a5a1e6d66f26117bd2fd10dbb22",
+            "FileCRC": "c92e585e",
+            "FileSize": 14695,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_foxcard.bundle",
+            "UnityCRC": 1692477640,
+            "FileHash": "545b2e006c3854db738a8dd033bb9ebb",
+            "FileCRC": "119cb925",
+            "FileSize": 111958,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                22,
+                21,
+                20
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle.bundle",
+            "UnityCRC": 1336340172,
+            "FileHash": "24780a08fec35914f2040fb7d0fb0eb1",
+            "FileCRC": "4eae174e",
+            "FileSize": 27144,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle",
+            "UnityCRC": 740586042,
+            "FileHash": "71409d71243d2e784b4e6298710b03e9",
+            "FileCRC": "3895ae9d",
+            "FileSize": 10026,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle",
+            "UnityCRC": 924278252,
+            "FileHash": "e6228010d478e30fa4fb4ba5f316745d",
+            "FileCRC": "5eb4d6ab",
+            "FileSize": 48065,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                22,
+                21,
+                20
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_equip.bundle",
+            "UnityCRC": 1190762479,
+            "FileHash": "ec71c874a7332e8a051bb65d9e8b9df3",
+            "FileCRC": "9e93fbe5",
+            "FileSize": 35344,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle",
+            "UnityCRC": 685273237,
+            "FileHash": "82465429eb311b42e6cebff591dd2cf6",
+            "FileCRC": "73388f50",
+            "FileSize": 366514,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                22,
+                21,
+                20
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle",
+            "UnityCRC": 2286047090,
+            "FileHash": "f7fea996b17fa2b250c8ae5525718842",
+            "FileCRC": "910e57cb",
+            "FileSize": 61999,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_settings.bundle",
+            "UnityCRC": 850397982,
+            "FileHash": "72acd5041bd3ff59798f00c5595afc57",
+            "FileCRC": "f46bc147",
+            "FileSize": 15332,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                22,
+                21,
+                20
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_prefabs_others_testui.bundle",
+            "UnityCRC": 915412690,
+            "FileHash": "d3412c45c138dff28aa4155969f53e6b",
+            "FileCRC": "dc981877",
+            "FileSize": 26405,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_art_resources_ui_textures.bundle",
+            "UnityCRC": 423207096,
+            "FileHash": "4a697b451c3c4f9fbcc52016906f22bd",
+            "FileCRC": "908442d9",
+            "FileSize": 305540,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_initialization.bundle",
+            "UnityCRC": 851084394,
+            "FileHash": "4219238407081c8057775bcc11efed24",
+            "FileCRC": "f6c024e5",
+            "FileSize": 69355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                24,
+                23
+            ]
+        },
+        {
+            "BundleName": "assets_scenes_login.bundle",
+            "UnityCRC": 2013988504,
+            "FileHash": "db8d312521de5bde83c80e45b104e7e0",
+            "FileCRC": "66ca7f47",
+            "FileSize": 63173,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_scenes_uimenu.bundle",
+            "UnityCRC": 932774538,
+            "FileHash": "2938f4471ca1f0788f62fb3ea87ec1d0",
+            "FileCRC": "ded3f4b6",
+            "FileSize": 63175,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_configjsondata.bundle",
+            "UnityCRC": 3174036220,
+            "FileHash": "d48cc82ec3774d080588c3370b509764",
+            "FileCRC": "a4cc74f2",
+            "FileSize": 2051,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_foxcard_scripts_hotfix_hotfixprefab.bundle",
+            "UnityCRC": 2163165757,
+            "FileHash": "cb8c7fb221f5508894e245e7ca108204",
+            "FileCRC": "f09928ff",
+            "FileSize": 8185,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "assets_foxcard_hotfixdlls.bundle",
+            "UnityCRC": 1954118852,
+            "FileHash": "1b7b5ab3656cdef19740226c97b177d5",
+            "FileCRC": "a93306ba",
+            "FileSize": 3134179,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "UnityCRC": 3826524028,
+            "FileHash": "14a13543af273f5382e2f8551b5eee32",
+            "FileCRC": "a98d3fa5",
+            "FileSize": 7005,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 3908936440,
+            "FileHash": "61e32e101624f123e8af7ab94835761f",
+            "FileCRC": "f64743fa",
+            "FileSize": 20030,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle",
+            "UnityCRC": 4288063578,
+            "FileHash": "541757deee1d09b9656193b9535a6f71",
+            "FileCRC": "41378b79",
+            "FileSize": 373770,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                22,
+                20
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartypackages_textmesh_pro_fonts.bundle",
+            "UnityCRC": 1279070926,
+            "FileHash": "36799d788c43eb64330ab5cd63db4e14",
+            "FileCRC": "544ecebf",
+            "FileSize": 227294,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_packages_com_sharelib_logviewer_runtime_images.bundle",
+            "UnityCRC": 1627421880,
+            "FileHash": "12837ec0756691e94833b32e439726bc",
+            "FileCRC": "20280359",
+            "FileSize": 70233,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_resources.bundle",
+            "UnityCRC": 1901020118,
+            "FileHash": "fc86a77c44a908900e451c2d4bf4b38d",
+            "FileCRC": "95b56cd2",
+            "FileSize": 183535,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

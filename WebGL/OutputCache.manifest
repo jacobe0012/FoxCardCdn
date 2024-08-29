@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 4185363980
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_foxcard_art_resources_audioclips_banks.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_foxcard_art_resources_audioclips_bgm.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_foxcard_art_resources_audioclips_soundeffects.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_foxcard_art_resources_ui_prefabs_foxcard.bundle
+      Dependencies:
+        Dependency_0: assets_foxcard_art_resources_ui_textures.bundle
+        Dependency_1: share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle
+    Info_4:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_battle.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_battle_buttons.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_commonui.bundle
+      Dependencies:
+        Dependency_0: share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle
+    Info_7:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_equip.bundle
+      Dependencies:
+        Dependency_0: assets_foxcard_art_resources_ui_textures.bundle
+    Info_8:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_jiyu.bundle
+      Dependencies:
+        Dependency_0: share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle
+    Info_9:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_runtimeui.bundle
+      Dependencies: {}
+    Info_10:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_settings.bundle
+      Dependencies:
+        Dependency_0: share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle
+    Info_11:
+      Name: assets_foxcard_art_resources_ui_prefabs_others_testui.bundle
+      Dependencies: {}
+    Info_12:
+      Name: assets_foxcard_art_resources_ui_textures.bundle
+      Dependencies: {}
+    Info_13:
+      Name: assets_scenes_initialization.bundle
+      Dependencies:
+        Dependency_0: share_packages_com_sharelib_logviewer_runtime_images.bundle
+        Dependency_1: share_assets_resources.bundle
+    Info_14:
+      Name: assets_scenes_login.bundle
+      Dependencies: {}
+    Info_15:
+      Name: assets_scenes_uimenu.bundle
+      Dependencies: {}
+    Info_16:
+      Name: assets_foxcard_configjsondata.bundle
+      Dependencies: {}
+    Info_17:
+      Name: assets_foxcard_scripts_hotfix_hotfixprefab.bundle
+      Dependencies:
+        Dependency_0: assets_foxcard_art_resources_ui_textures.bundle
+    Info_18:
+      Name: assets_foxcard_hotfixdlls.bundle
+      Dependencies: {}
+    Info_19:
+      Name: share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle
+      Dependencies: {}
+    Info_20:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_21:
+      Name: share_assets_thirdpartypackages_textmesh_pro_resources_fonts_&_materials.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+        Dependency_1: share_assets_thirdpartypackages_textmesh_pro_fonts.bundle
+    Info_22:
+      Name: share_assets_thirdpartypackages_textmesh_pro_fonts.bundle
+      Dependencies: {}
+    Info_23:
+      Name: share_packages_com_sharelib_logviewer_runtime_images.bundle
+      Dependencies: {}
+    Info_24:
+      Name: share_assets_resources.bundle
+      Dependencies: {}
