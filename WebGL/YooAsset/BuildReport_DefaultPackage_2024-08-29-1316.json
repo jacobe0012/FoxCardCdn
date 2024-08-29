@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.2",
         "UnityVersion": "2022.3.40f1",
-        "BuildDate": "2024/8/29 20:31:33",
-        "BuildSeconds": 52,
+        "BuildDate": "2024/8/29 21:57:07",
+        "BuildSeconds": 10,
         "BuildTarget": 20,
-        "BuildMode": 1,
+        "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2024-08-29-1230",
+        "BuildPackageVersion": "2024-08-29-1316",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 241,
         "MainAssetTotalCount": 197,
         "AllBundleTotalCount": 25,
-        "AllBundleTotalSize": 22397792,
+        "AllBundleTotalSize": 22353672,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -1930,7 +1930,7 @@
             "AssetGUID": "28dc82233bcd872498f7e64cd6eb0450",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1939,7 +1939,7 @@
             "AssetGUID": "e69446e47d1822743a030d1116de0c13",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1948,7 +1948,7 @@
             "AssetGUID": "7bfacb3c7506e3f459cd16608f5a5e78",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1957,7 +1957,7 @@
             "AssetGUID": "712fe9db503d4bb438b85f17710345fa",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1966,7 +1966,7 @@
             "AssetGUID": "23a02d390f4613242ad5694029720fb4",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1975,7 +1975,7 @@
             "AssetGUID": "9ac816c7037c03e439a1a2560eb0493e",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1984,7 +1984,7 @@
             "AssetGUID": "514bd4965090bb64484887cc730910c1",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -1993,7 +1993,7 @@
             "AssetGUID": "142dcc53528ac5747a8992843a754494",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -2002,7 +2002,7 @@
             "AssetGUID": "001596e04207ce14abdd54dacb12ed5d",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -2011,7 +2011,7 @@
             "AssetGUID": "5597a71248d8d544aa443ac6cc9cd2aa",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -2020,7 +2020,7 @@
             "AssetGUID": "2ec72c13a2c065b42b6bac35812d94d3",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         },
         {
@@ -2029,7 +2029,7 @@
             "AssetGUID": "5876bb772a9716e4caa5c66e6d4def08",
             "AssetTags": [],
             "MainBundleName": "assets_foxcard_hotfixdlls.bundle",
-            "MainBundleSize": 3134179,
+            "MainBundleSize": 3090059,
             "DependAssets": []
         }
     ],
@@ -2461,10 +2461,10 @@
         },
         {
             "BundleName": "assets_foxcard_hotfixdlls.bundle",
-            "FileName": "assets_foxcard_hotfixdlls_1b7b5ab3656cdef19740226c97b177d5.bundle",
-            "FileHash": "1b7b5ab3656cdef19740226c97b177d5",
-            "FileCRC": "a93306ba",
-            "FileSize": 3134179,
+            "FileName": "assets_foxcard_hotfixdlls_0c1686bc79845970041ed76c7f14c750.bundle",
+            "FileHash": "0c1686bc79845970041ed76c7f14c750",
+            "FileCRC": "9d1abc4e",
+            "FileSize": 3090059,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

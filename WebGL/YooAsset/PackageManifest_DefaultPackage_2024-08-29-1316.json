@@ -6,7 +6,7 @@
     "OutputNameStyle": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2024-08-29-1230",
+    "PackageVersion": "2024-08-29-1316",
     "AssetList": [
         {
             "Address": "BGM.bank",
@@ -1595,10 +1595,10 @@
         },
         {
             "BundleName": "assets_foxcard_hotfixdlls.bundle",
-            "UnityCRC": 1954118852,
-            "FileHash": "1b7b5ab3656cdef19740226c97b177d5",
-            "FileCRC": "a93306ba",
-            "FileSize": 3134179,
+            "UnityCRC": 3442279401,
+            "FileHash": "0c1686bc79845970041ed76c7f14c750",
+            "FileCRC": "9d1abc4e",
+            "FileSize": 3090059,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
